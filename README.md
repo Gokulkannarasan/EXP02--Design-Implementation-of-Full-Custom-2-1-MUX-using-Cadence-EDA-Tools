@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![Screenshot (86)](https://github.com/user-attachments/assets/9faa4ac1-a4b4-416a-8bd9-ff074c5fc68d)
+
 
 
  
@@ -63,7 +64,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
+ ![Screenshot (87)](https://github.com/user-attachments/assets/24b32e53-3f39-4995-bbf3-597ace020da7)
+
 
 
 iv)	Creating the new test cell view
@@ -74,7 +76,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+ ![Screenshot (88)](https://github.com/user-attachments/assets/bc0da483-bb45-4d25-9254-2aeffc744eec)
+
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -86,12 +89,15 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+![Screenshot (92)](https://github.com/user-attachments/assets/e5959a7d-2a18-426e-9d9b-cf6cbbe41ef0)
+
 
 For Transient Analysis Settings and Output
- ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
+![Screenshot (89)](https://github.com/user-attachments/assets/ad260e94-f0b0-4568-80e6-98365cfbc2fc)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+
+![Screenshot (91)](https://github.com/user-attachments/assets/71f54207-94df-463e-844e-2a9c05e62d6a)
+
 
 
 
