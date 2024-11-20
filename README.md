@@ -10,7 +10,9 @@ To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools,
 - Cadence Virtuoso Software
 
 ### Circuit Diagram:
+![IMG-20241115-WA0011](https://github.com/user-attachments/assets/7483bb99-ce61-43af-9f05-261b04a5fdf6)
 
+## Schematic Diagram:
 ![Screenshot (86)](https://github.com/user-attachments/assets/144416c8-5f4c-4874-a2bd-f5ac042ca8e4)
 
 
